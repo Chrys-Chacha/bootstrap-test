@@ -1,0 +1,14 @@
+.nav-gation{
+    flex-direction: row;
+}
+.nav-gation ul{
+    display: flex;
+    padding: 20px;
+}
+.nav-gation ul li {
+    list-style: none;
+    padding-left: 8%;
+}
+.nav-gation ul li a{
+    text-decoration: none;
+}

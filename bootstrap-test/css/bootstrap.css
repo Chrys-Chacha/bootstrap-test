@@ -4060,9 +4060,6 @@ input[type="button"].btn-block {
   margin-bottom: 0;
   list-style: none;
 }
-#navigation {
-  flex-direction: row
-}
 .nav-link {
   display: block;
   padding: 0.5rem 1rem;
